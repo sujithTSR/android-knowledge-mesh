@@ -6,7 +6,7 @@
 An Intent is a messaging object used to request an action from another app component. It is used to start activities, services, or deliver a broadcast.
 
 **Basic Uses of Intent:**
-- Start an android 
+- Start an android activity
 - Start a service 
 - Deliver a broadcast
 
